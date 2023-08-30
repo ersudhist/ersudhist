@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sudhist-kumar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://ersudhist.github.io/sudhistkumar.github.io/">
+  <a href="https://github.com/ersudhist/ersudhist.github.io/">
     <img src="https://static.wixstatic.com/media/809fa5_c02c7069a7f246ed986e103ade08b3d1~mv2.gif" width="100" height="40" alt="Portfolio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=ersudhist&style=flat-square&color=blue" alt=""/>
@@ -30,7 +30,7 @@
   
   - 👯 I’m looking to collaborate on ...**Java**
   
-  - 👨‍💻 All of my projects are available at ....[https://ersudhist.github.io/sudhistkumar.github.io/](https://ersudhist.github.io/sudhistkumar.github.io/)
+  - 👨‍💻 All of my projects are available at ....[https://github.com/ersudhist/ersudhist.github.io/](https://github.com/ersudhist/sudhistkumar.github.io/)
   
   - 💬 Ask me about **Anything**
   
