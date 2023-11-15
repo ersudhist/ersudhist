@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **kumarsudhist@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1geoL4CUza4ZMm_Ga_3ay5DNNQEiQhInh/view?usp=sharing](https://drive.google.com/file/d/1geoL4CUza4ZMm_Ga_3ay5DNNQEiQhInh/view?usp=sharing)
+- 📄 Know about my experiences https://test-resume.masaischool.com/resume?resumeId=6544c6ad5cca9bd70a48a50f&selectedTemplate=TwoColumnMinimal
 
 - ⚡ Fun fact **Kabhi kabhi lagta hai apunichh bhagwan hai**
 
